@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="user">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="ingrsar">Ingresar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="btnsiguiente">Ingresar</string>
+</resources>
